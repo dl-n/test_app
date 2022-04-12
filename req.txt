@@ -1,0 +1,13 @@
+Please follow all library installation process by (pneumonia detection project)
+Additional to that install below library as well
+- pip install scikit-image
+- pip install gevent
+
+note : implemented this project on top of (pneumonia detection project) set-up, so follow the same versions used in pneumonia project.
+additionally install above to libraries.
+smtp mail -> is implemented in method by own....change credentials before share.
+
+mandatory step for smtp mail : -> to sent mails
+under https://myaccount.google.com/ -> Security tab -> Less secure app access -> on
+
+C:\Users\welcome\Downloads\Plant-Disease-Diagnosis-Flask-master

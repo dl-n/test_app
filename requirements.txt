@@ -1,0 +1,6 @@
+Flask
+gevent
+numpy
+tensorflow
+Werkzeug
+scikit_image
